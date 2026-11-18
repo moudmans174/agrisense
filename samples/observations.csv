@@ -1,0 +1,3 @@
+observed_at,crop_stage,plant_height_cm,canopy_cover_pct,pest_type,pest_severity,disease_type,disease_severity,weed_pressure,soil_moisture_pct,notes
+2026-11-01T09:00:00Z,development,85,55,fall armyworm,2,,0,1,19.5,Whorl damage on edge rows
+2026-11-10T09:00:00Z,development,120,70,fall armyworm,3,northern leaf blight,1,1,16.0,Damage spreading inward
